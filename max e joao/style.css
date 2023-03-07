@@ -3,8 +3,6 @@
     padding: 0;
 }
 
-
-
 .cabecalho {
     background-color: #424E61; 
     color: white;
@@ -24,4 +22,10 @@
     font-size: 24px;
 }
 
+.escola-imagem{
+    width: 25%;
+}
 
+.escola{
+    background-image: linear-gradient(#5E8A49,#65FD1E); 
+}
